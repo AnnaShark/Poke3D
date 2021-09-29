@@ -14,3 +14,4 @@ To add more cards and models you need to:
 
 
 
+![](poke3D.gif)
